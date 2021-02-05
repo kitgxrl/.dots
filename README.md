@@ -1,4 +1,4 @@
-# .dots
+# .dotfiles
 
 ## Quick install
 > TODO: when I'm not a lazy fuck
