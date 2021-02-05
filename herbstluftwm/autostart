@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+$HOME/.config/herbstluftwm/keybinds
+$HOME/.config/herbstluftwm/theme
+$HOME/.config/herbstluftwm/misc
+
+eval $(~/.fehbg)
+picom &
