@@ -4,5 +4,8 @@ $HOME/.config/herbstluftwm/keybinds
 $HOME/.config/herbstluftwm/theme
 $HOME/.config/herbstluftwm/misc
 
+# Set wallpaper
 eval $(~/.fehbg)
+
+# Start compositor
 picom &
