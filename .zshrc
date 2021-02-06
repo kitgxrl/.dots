@@ -9,6 +9,9 @@ ZSH_THEME="gentoo"
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
+# ~/.profile
+source ~/.profile
+
 # Useful aliases
 alias reboot="sudo reboot"
 alias pls="doas"
