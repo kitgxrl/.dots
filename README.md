@@ -2,7 +2,7 @@
 Personal configuration. Do with it as you please.
 
 ## Quick install
-> TODO: when I'm not a lazy fuck
+> TODO: when I'm not a lazy fuck (forever)
 
 ## Credits
 
